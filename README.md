@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**albertocruzdg/albertocruzdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer, currently working at [Hexacta](https://www.hexacta.com/). I love learning about new technologies, architecture, methodology and anything that improves the way I write software.
+
+I have been working on software development for 8+ years, mostly focused on .NET tech stack.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working at [Hexacta](https://www.hexacta.com/)
+- 🌱 I’m currently learning React and AWS.
+- 💬 Ask me about .NET
+- 📫 How to reach me:
+  - Twitter: [@albertocruzdg](https://twitter.com/albertocruzdg)
+  - Instagram: [@albertocruzdg](https://instagram.com/albertocruzdg)
+<!--
+- ⚡ Fun fact:
 -->

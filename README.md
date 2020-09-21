@@ -4,10 +4,10 @@ I'm a software developer, currently working at [Hexacta](https://www.hexacta.com
 
 I have been working on software development for 8+ years, mostly focused on .NET tech stack.
 
-Here are some ideas to get you started:
+Some facts about me:
 
 - 🔭 I’m currently working at [Hexacta](https://www.hexacta.com/)
-- 🌱 I’m currently learning React and AWS.
+- 🌱 I’m currently learning Data Science and AWS.
 - 💬 Ask me about .NET
 - 📫 How to reach me:
   - Twitter: [@albertocruzdg](https://twitter.com/albertocruzdg)

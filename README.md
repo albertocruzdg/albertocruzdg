@@ -7,7 +7,7 @@ I have been working on software development for 8+ years, mostly focused on .NET
 Some facts about me:
 
 - 🔭 I’m currently working at [Hexacta](https://www.hexacta.com/)
-- 🌱 I’m currently learning Data Science and AWS.
+- 🌱 I’m currently learning AWS and Terraform.
 - 💬 Ask me about .NET
 - 📫 How to reach me:
   - Twitter: [@albertocruzdg](https://twitter.com/albertocruzdg)
